@@ -19,21 +19,5 @@ This project is a static HTML and CSS implementation of a user profile form with
 - ARIA attributes for accessibility
 - Sufficient color contrast for readability
 
-## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/form-ui-project.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd form-ui-project
-   ```
-3. Open `index.html` in a browser.
-
-## Future Enhancements
-- Add JavaScript for form validation
-- Implement dynamic progress tracking
-- Improve responsiveness for different screen sizes
-
-## License
-This project is open-source and available for use under the MIT License.
+## Links 
+https://roadmap.sh/projects/accessible-form-ui
